@@ -1,4 +1,4 @@
-package com.reactnativeplayground;
+package com.cosmictech.ReactNativePlayground;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

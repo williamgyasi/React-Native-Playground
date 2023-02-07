@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnativeplayground"
+    namespace "com.cosmictech.ReactNativePlayground"
     defaultConfig {
-        applicationId "com.reactnativeplayground"
+        applicationId "com.cosmictech.ReactNativePlayground"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
